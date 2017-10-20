@@ -1,5 +1,8 @@
 {
   "name": "JsonExample2",
   "app_id": "",
+  "integrations": {},
   "type": "ionic-angular"
+
+
 }
